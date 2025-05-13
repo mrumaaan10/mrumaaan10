@@ -59,7 +59,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrumaan10&show_icons=true&theme=github_dark&hide_title=true" alt="Rumaan's GitHub stats" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrumaan10&layout=compact&theme=github_dark" alt="Top languages" width="47%" />
 </p>
